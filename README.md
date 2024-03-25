@@ -1,5 +1,5 @@
 # rockpaper
-test
+#test
 import random as rm
 
 l=["rock","paper","scissor"]
